@@ -1,0 +1,13 @@
+C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\хуйня в пакете\bin\Debug\хуйня в пакете.exe.config
+C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\хуйня в пакете\bin\Debug\хуйня в пакете.exe
+C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\хуйня в пакете\bin\Debug\хуйня в пакете.pdb
+C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\хуйня в пакете\bin\Debug\ClassLibrary1.dll
+C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\хуйня в пакете\bin\Debug\ClassLibrary1.pdb
+C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\хуйня в пакете\obj\Debug\хуйня в пакете.csproj.AssemblyReference.cache
+C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\хуйня в пакете\obj\Debug\хуйня_в_пакете.Form1.resources
+C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\хуйня в пакете\obj\Debug\хуйня_в_пакете.Properties.Resources.resources
+C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\хуйня в пакете\obj\Debug\хуйня в пакете.csproj.GenerateResource.cache
+C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\хуйня в пакете\obj\Debug\хуйня в пакете.csproj.CoreCompileInputs.cache
+C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\хуйня в пакете\obj\Debug\_____ _ .57516771.Up2Date
+C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\хуйня в пакете\obj\Debug\хуйня в пакете.exe
+C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\хуйня в пакете\obj\Debug\хуйня в пакете.pdb

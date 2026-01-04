@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{89F93CB0-494E-4F26-8F61-CC2B718A7D8C}|\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435.csproj|c:\\users\\trufa\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u043E\u043A\u043E\u0441\u0438\u043A\\cocos\\\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{89F93CB0-494E-4F26-8F61-CC2B718A7D8C}|\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435.csproj|solutionrelative:\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F93CB0-494E-4F26-8F61-CC2B718A7D8C}|\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435.csproj|c:\\users\\trufa\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u043E\u043A\u043E\u0441\u0438\u043A\\cocos\\\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F93CB0-494E-4F26-8F61-CC2B718A7D8C}|\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435.csproj|solutionrelative:\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\trufa\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u043E\u043A\u043E\u0441\u0438\u043A\\Cocos\\\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\Form1.cs",
+              "ToolTip": "C:\\Users\\trufa\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u043E\u043A\u043E\u0441\u0438\u043A\\Cocos\\\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\Form1.cs",
+              "RelativeToolTip": "\u0445\u0443\u0439\u043D\u044F \u0432 \u043F\u0430\u043A\u0435\u0442\u0435\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:25:38.697Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

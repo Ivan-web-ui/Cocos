@@ -1,6 +1,0 @@
-C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\ClassLibrary1\obj\Debug\Engine.csproj.AssemblyReference.cache
-C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\ClassLibrary1\obj\Debug\Engine.csproj.CoreCompileInputs.cache
-C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-C:\Users\trufa\OneDrive\Рабочий стол\Проект Кокосик\Cocos\хуйня в пакете\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

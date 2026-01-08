@@ -35,7 +35,7 @@
             this.lblHitPoints = new System.Windows.Forms.Label();
             this.lblBags = new System.Windows.Forms.Label();
             this.lblLevel = new System.Windows.Forms.Label();
-            this.lblfoodwaseaten = new System.Windows.Forms.Label();
+            this.lblfoodWaseaten = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -94,14 +94,14 @@
             this.lblLevel.TabIndex = 5;
             this.lblLevel.Text = "label6";
             // 
-            // lblfoodwaseaten
+            // lblfoodWaseaten
             // 
-            this.lblfoodwaseaten.AutoSize = true;
-            this.lblfoodwaseaten.Location = new System.Drawing.Point(110, 73);
-            this.lblfoodwaseaten.Name = "lblfoodwaseaten";
-            this.lblfoodwaseaten.Size = new System.Drawing.Size(35, 13);
-            this.lblfoodwaseaten.TabIndex = 6;
-            this.lblfoodwaseaten.Text = "label7";
+            this.lblfoodWaseaten.AutoSize = true;
+            this.lblfoodWaseaten.Location = new System.Drawing.Point(110, 73);
+            this.lblfoodWaseaten.Name = "lblfoodWaseaten";
+            this.lblfoodWaseaten.Size = new System.Drawing.Size(35, 13);
+            this.lblfoodWaseaten.TabIndex = 6;
+            this.lblfoodWaseaten.Text = "label7";
             // 
             // label8
             // 
@@ -118,7 +118,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(719, 651);
             this.Controls.Add(this.label8);
-            this.Controls.Add(this.lblfoodwaseaten);
+            this.Controls.Add(this.lblfoodWaseaten);
             this.Controls.Add(this.lblLevel);
             this.Controls.Add(this.lblBags);
             this.Controls.Add(this.lblHitPoints);
@@ -142,7 +142,7 @@
         private System.Windows.Forms.Label lblHitPoints;
         private System.Windows.Forms.Label lblBags;
         private System.Windows.Forms.Label lblLevel;
-        private System.Windows.Forms.Label lblfoodwaseaten;
+        private System.Windows.Forms.Label lblfoodWaseaten;
         private System.Windows.Forms.Label label8;
     }
 }

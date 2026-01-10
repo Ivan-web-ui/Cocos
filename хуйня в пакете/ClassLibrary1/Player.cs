@@ -16,11 +16,11 @@ namespace ClassLibrary1
 
         public Player(int currentHitPoints, int maxHitPoints, int bags, int foodWaseaten, int level)
         {
-            currentHitPoints = CurrentHitPoints;
-            maxHitPoints = MaxHitPoints;
-            bags = Bags;
-            foodWaseaten = FoodWaseaten;
-            level = Level;
+            CurrentHitPoints = currentHitPoints;
+            MaxHitPoints = maxHitPoints;
+            Bags = bags;
+            FoodWaseaten = foodWaseaten;
+            Level = level;
         }
     }
 }

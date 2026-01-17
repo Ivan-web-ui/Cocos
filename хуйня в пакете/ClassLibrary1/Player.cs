@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public class Player
+    public class Player : LivingCreature
     {
-        public int CurrentHitPoints { get; set; }
-        public int MaxHitPoints { get; set; }
         public int Bags { get; set; }
         public int FoodWaseaten { get; set; }
         public int Level { get; set; }
@@ -17,7 +15,7 @@ namespace ClassLibrary1
         public Player(int currentHitPoints, int maxHitPoints, int bags, int foodWaseaten, int level)
         {
             CurrentHitPoints = currentHitPoints;
-            MaxHitPoints = maxHitPoints;
+            MaximumHitPoints = maxHitPoints;
             Bags = bags;
             FoodWaseaten = foodWaseaten;
             Level = level;

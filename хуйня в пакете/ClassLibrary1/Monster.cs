@@ -15,5 +15,14 @@ namespace ClassLibrary1
         public int MaximumDamage { get; set; }
         public int RewardFoodWaseaten { get; set; }
         public int RewardBugs {  get; set; }
+
+        public Moster(int id, string name, int maximumDamage, int rewardfoodWaseaten, int rewardBugs, int currentHitPoints, int maximumHitPoints) : base(currentHitPoints, maximumHitPoints)
+        {
+            ID = id;
+            Name = name;
+            MaximumDamage = maximumDamage;
+            RewardFoodWaseaten = rewardfoodWaseaten;
+            RewardBugs = rewardBugs;
+        }
     }
 }

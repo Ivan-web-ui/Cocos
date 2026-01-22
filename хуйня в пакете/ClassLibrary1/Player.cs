@@ -12,10 +12,16 @@ namespace ClassLibrary1
         public int FoodWaseaten { get; set; }
         public int Level { get; set; }
 
-        public Player(int currentHitPoints, int maxHitPoints, int bags, int foodWaseaten, int level)
+        public Player(int currentHitPoints, int maximumHitPoints, int bags, int foodWaseaten, int level)
         {
             CurrentHitPoints = currentHitPoints;
             MaximumHitPoints = maxHitPoints;
+            Bags = bags;
+            FoodWaseaten = foodWaseaten;
+            Level = level;
+        }
+        public Player(int currentHitPoints, int maximumHintPoints, int bags, int foodWaseaten, int level)
+        {
             Bags = bags;
             FoodWaseaten = foodWaseaten;
             Level = level;

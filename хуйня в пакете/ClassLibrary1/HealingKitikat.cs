@@ -8,6 +8,11 @@ namespace ClassLibrary1
 {
     public class HealingKitikat : Item
     {
-        public string AmountToHeal {  get; set; }   
+        public string AmountToHeal {  get; set; }
+
+        public HealingKitikat(int id, string name, string namePlural, int amountToHeal) : base(id, name, namePlural) 
+        {
+            AmountToHeal = amountToHeal;
+        }
     }
 }

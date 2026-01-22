@@ -13,5 +13,14 @@ namespace ClassLibrary1
         public string Description {  get; set; }
         public int RewardFoodWaseaten {  get; set; }
         public int RewardBugs {  get; set; }
+
+        public Quest(int id, string name, string description, int rewardFoodWaseaten,int rewardBugs)
+        {
+            ID = id;
+            Name = name;
+            Description = description;
+            RewardFoodWaseaten = rewardFoodWaseaten;
+            RewardBugs = rewardBugs;
+        }
     }
 }
